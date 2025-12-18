@@ -45,7 +45,7 @@ The analysis is performed end-to-end using **SQL for data cleaning and transform
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard Overview](HR_Analytics_Attrition/Screenshots/HR_Analytics_Dashboard.png)
+![Dashboard Overview](HR_Analytics_Attrition/Screenshots/HR_Dashboard.png)
 
 ---
 
